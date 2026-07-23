@@ -81,6 +81,11 @@ UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "axonhub gecoosac sing-box luci-app-homeproxy luci-app-timewol luci-app-wolplus luci-app-wolultra"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 
+# 1. 导入 iStore 软件中心
+UPDATE_PACKAGE "luci-app-store" "linkease/istore" "main" "pkg"
+# 2. 导入 Netdata 中文/JS控制版
+UPDATE_PACKAGE "luci-app-netdata" "sirpdboy/luci-app-netdata" "main"
+
 #更新软件包版本
 UPDATE_VERSION() {
 	local PKG_NAME=$1
