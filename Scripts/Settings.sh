@@ -62,3 +62,7 @@ if [[ "${WRT_TARGET^^}" == *"QUALCOMMAX"* ]]; then
 		echo "qualcommax set up nowifi successfully!"
 	fi
 fi
+
+# 自定义设备名称
+WRT_MODEL="CLX-S20MP"
+echo "uci set system.@system[0].model='$WRT_MODEL' && uci commit system" >> ./package/base-files/files/etc/uci-defaults/99-custom-model
