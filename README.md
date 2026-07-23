@@ -1,44 +1,5 @@
-# 高质量<免费>交流群
-
-点击链接加入群聊【IPQ技术讨论群】：https://qm.qq.com/q/v7nMhzB4oU
-该群为普通交流群。
-
-# 高质量<付费>中转站
-
-点击链接加入群聊【LiBwrt-Ai学习】：https://qm.qq.com/q/HTa7OiWNCU
-该群为AI中转站群。
-
-# OpenWRT-CI
-
-官方版：
-
-https://github.com/immortalwrt/immortalwrt.git
-
-自用版：
-
-https://github.com/VIKINGYFY/immortalwrt.git
-
-# U-BOOT
-
-高通版-沉心：
-
-https://github.com/chenxin527/uboot-ipq60xx-emmc-build.git
-
-https://github.com/chenxin527/uboot-ipq60xx-nand-build.git
-
-https://github.com/chenxin527/uboot-ipq60xx-nor-build.git
-
-高通版-小猪：
-
-https://github.com/1980490718/u-boot-2016.git
-
-联发科-全新版：
-
-https://github.com/VIKINGYFY/UBOOT-CI/releases
-
-联发科-官方版：
-
-https://drive.wrt.moe/uboot/mediatek
+#设备说明
+超级网关CLX_S20M魔改焊接了双2.5G网口，可直接用S20P无WIFI版本固件，根据个人喜好增删插件。
 
 # 固件简要说明
 
