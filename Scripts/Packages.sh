@@ -82,7 +82,7 @@ UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "axonhub gecoosac sing-bo
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 
 # 1. 导入 iStore 软件中心
-UPDATE_PACKAGE "luci-app-store" "linkease/istore" "main" "pkg"
+UPDATE_PACKAGE "luci-app-store" "linkease/istore" "main"
 # 2. 导入 Netdata 中文/JS控制版
 UPDATE_PACKAGE "luci-app-netdata" "sirpdboy/luci-app-netdata" "main"
 
