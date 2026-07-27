@@ -4,6 +4,7 @@ CONFIG_PACKAGE_luci-app-mini-diskmanager=y
 CONFIG_PACKAGE_luci-app-partexp=y
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-wolultra=y
+CONFIG_PACKAGE_luci-app-homeproxy=y
 # === 自增加组件 ===
 CONFIG_PACKAGE_kmod-fs-ntfs3=y
 CONFIG_PACKAGE_kmod-fs-ext4=y
@@ -14,7 +15,6 @@ CONFIG_PACKAGE_luci-app-store=y
 CONFIG_PACKAGE_luci-app-ddns-go=y
 CONFIG_PACKAGE_screen=y
 CONFIG_PACKAGE_luci-app-ttyd=y
-CONFIG_PACKAGE_luci-app-advanced=y
 CONFIG_PACKAGE_luci-app-ksmbd=y
 #删除插件
 CONFIG_PACKAGE_luci-app-attendedsysupgrade=n
